@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/antekmeco/nuxt/main/assets/img/fox1.png)
+![alt text](https://raw.githubusercontent.com/antekmeco/site/main/assets/img/fox1.png)
